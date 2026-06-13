@@ -7,7 +7,8 @@ I'm a Software Engineer with a passion for building scalable applications and in
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently a **Software Engineer** at **Fidelity Information Services (FIS)**.
-- 🌱 I’m pursuing **Master of Technology in Artificial Intelligence** at **IIT Jodhpur**.
+- 🌱 I'm pursuing **Master of Business Administration** at **IIM Visakhapatnam**.
+- 🌱 I have completed **Master of Technology in Artificial Intelligence** at **IIT Jodhpur**.
 - 🚀 I have experience designing and developing high-performance applications using **Java, Spring Boot, and Angular**.
 - 🤖 I specialize in integrating **AI/ML models** into core banking systems, building real-time data ingestion pipelines, and operationalizing ML workflows.
 - 🛠️ I enjoy optimizing performance. I developed an internal tool that improved application build time by **10%** and reduced test execution time by **1 hour**.
